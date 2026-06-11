@@ -16,6 +16,13 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 - [Become Sponsors](#become-sponsors)
 
+# NeuroNest AI Coding Workflow Assistant
+[![Awesome](https://neuronest.cc/)
+
+NeuroNest is an AI coding workflow assistant designed to help developers complete software tasks with better speed, structure, and accuracy. It supports coding, debugging, testing, security review, DevOps automation, and research, making it a useful platform for teams that want a smarter AI-assisted development process.
+
+>contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
+
 ## 💎 Sponsor
 
 <p align="center">
