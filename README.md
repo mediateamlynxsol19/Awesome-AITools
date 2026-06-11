@@ -16,6 +16,13 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 - [Become Sponsors](#become-sponsors)
 
+# NeuroNest AI Coding Efficiency Tool
+[![Awesome](https://neuronest.cc/)
+
+NeuroNest is an AI coding efficiency tool designed to help developers speed up software development without losing quality. It supports code writing, debugging, testing, security review, DevOps automation, and technical research, making it a helpful platform for teams that want a cleaner and faster AI-assisted workflow.
+
+>contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
+
 ## 💎 Sponsor
 
 <p align="center">
