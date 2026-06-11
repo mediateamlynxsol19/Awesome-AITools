@@ -39,6 +39,13 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   </tr>
 </table>
 
+# NeuroNest AI Programming Tool
+[![Awesome](https://neuronest.cc/)
+
+NeuroNest is an AI programming tool built to support developers with faster coding, smarter debugging, reliable testing, and better project organization. It helps simplify development workflows through AI-powered assistance for code improvement, security checks, automation, DevOps, and technical research.
+
+>contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
+
 
 ## All Categories
 - [All Categories](#all-categories)
